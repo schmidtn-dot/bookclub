@@ -1,7 +1,7 @@
 {
   "name": "bookclub",
   "private": true,
-  "homepage": "https://schmidtn-dot.github.io/bookclub/",
+  "homepage": "https://schmidtn-dot.github.io/bookclub",
   "dependencies": {
   "version": "0.0.0",
   "type": "module",
